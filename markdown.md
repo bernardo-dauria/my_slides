@@ -1,10 +1,3 @@
----
-title: "A brief Markdown reference"
-author: Bernardo D'Auria
-date: February 20, 2019
-variant: markdown+native_divs
----
-
 % A brief Markdown reference
 % Bernardo D'Auria
 % February 20, 2019
