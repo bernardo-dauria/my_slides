@@ -80,15 +80,21 @@ x <- 1:10;
 print("hello");
 ```
 
-# Special effects
+# Columns
 
-##  Example with colors
+##  Lists
 
-<section data-markdown>
-  <script type="text/template">
-  <!-- .slide: style="color:white" -->  
-    your text in markdown goes here...   
-
-    _Doing is the best form of Saying_  
-  </script>
-</section>
+:::::::::::::: {.columns}
+::: {.column width="40%"}
+### Bullet list
+* one
+* two
+* three
+:::
+::: {.column width="60%"}
+### Ordered list
+1. one
+5. five
+7. seven
+:::
+::::::::::::::
