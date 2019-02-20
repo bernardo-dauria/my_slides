@@ -80,7 +80,9 @@ x <- 1:10;
 print("hello");
 ```
 
-------------------
+# Special effects
+
+##  Example with colors
 
 <section data-markdown>
   <script type="text/template">
