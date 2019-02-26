@@ -1,0 +1,6 @@
+.special-del p del {
+  color: red;
+  display: block;
+  text-align: center;
+}
+

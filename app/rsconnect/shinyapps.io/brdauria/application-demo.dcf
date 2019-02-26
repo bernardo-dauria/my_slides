@@ -1,0 +1,12 @@
+name: application-demo
+title: application-demo
+username:
+account: brdauria
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 736795
+bundleId: 1896547
+url: https://brdauria.shinyapps.io/application-demo/
+when: 1551039755.09465
+asMultiple: FALSE
+asStatic: FALSE
